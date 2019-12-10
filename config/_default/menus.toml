@@ -11,12 +11,12 @@
 [[main]]
   name = "Research Projects"
   url = "#featured"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Data Visualizations"
   url = "#projects"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "About Me"
