@@ -18,7 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.
+bio: I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.
+
+interests:
+- Representation Learning
+- Vulnerability in Deep Neural Networks
+- Interdisciplinary Research in Data Science
+
+education:
+  courses:
+  - course: M.S. in Data Science
+    institution: New York University
+    year: 2018
+  - course: BSc in Statistics and Economics
+    institution: University of Hong Kong
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
