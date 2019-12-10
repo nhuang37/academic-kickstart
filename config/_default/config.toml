@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Teresa's Homepage"
+title = "Teresa's homepage"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -69,3 +69,15 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+#sections
+[[main]]
+    name = "Research Projects"  # A name for the link.
+    url = "#research"  # URL of the section.
+    weight = 10  # Position of the link in the menu
+    
+#sections
+[[main]]
+    name = "Data Visualization"  # A name for the link.
+    url = "#visz"  # URL of the section.
+    weight = 10  # Position of the link in the menu
