@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. student at Center for Data Science
+role: M.S. student
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
-  url: ""
+- name: Center for Data Science, NYU
+  url: "https://cds.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.
