@@ -29,10 +29,10 @@ education:
   courses:
   - course: M.S. in Data Science
     institution: New York University
-    year: 2018 - 2020
+    year: 2020
   - course: BSc in Statistics and Economics
     institution: University of Hong Kong
-    year: 2012 - 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
