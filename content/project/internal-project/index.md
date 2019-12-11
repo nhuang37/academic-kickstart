@@ -1,9 +1,3 @@
-[---
-title: Water Conservation: Awareness, Action, Advocacy 
-summary: Data visualization about global inequities in water use and conservation suggestions
-tags:
-- Visz
-date: "2019-01-01T00:00:00Z"]
 ---
 title: Internal Project
 summary: An example of using the in-built project page.
