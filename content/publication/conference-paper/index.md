@@ -1,7 +1,7 @@
 ---
 title: "Adversarial attacks against linear and deep-learning regressions in astronomy"
-authors:
-- admin
+# authors:
+# - admin
 # - Robert Fordy
 # date: "2013-07-01T00:00:00Z"
 # doi: ""
@@ -16,8 +16,8 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: Submitted to the Mathematical and Scientific Machine Learning 2020 Conference, Princeton University
+# publication_short: In *STC*
 
 abstract: Recent work has shown that neural networks are susceptible to adversarial attacks, but what about simpler machine learning models? In this paper we investigate adversarial attacks to popu- lar machine learning models for regressions in astronomical data. Namely, AstroNN (a Bayesian Neural Network), The Cannon (a quadratic generative model), and a simple linear regression. We suggest a few approaches to measuring the strength of an adversarial attacks that take into consideration the physical properties of the predictions. Our results suggest that generative (or causal) models are more robust to adversarial attacks than discriminative models.
 
@@ -29,16 +29,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#  url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/nhuang37/AdversarialAttack'
 url_dataset: 'https://www.sdss.org/dr14/irspec/catalogs/'
-
+url_poster: 'https://github.com/nhuang37/academic-kickstart/blob/master/static/Capstone_poster.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
