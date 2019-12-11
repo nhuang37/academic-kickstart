@@ -24,8 +24,8 @@ abstract: Recent work has shown that neural networks are susceptible to adversar
 # Summary. An optional shortened abstract.
 summary: Our work generalizes adversarial attacks in regression settings and developes a comprehensive approach to measure attack success.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 links:
