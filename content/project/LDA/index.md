@@ -13,3 +13,6 @@ image:
   focal_point: Smart
 
 ---
+<iframe width="100%" height="150" name="iframe" src="https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html"></iframe>
+
+
