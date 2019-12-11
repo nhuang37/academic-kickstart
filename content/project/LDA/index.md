@@ -8,11 +8,11 @@ date: "2019-12-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: https://www.bloomberg.com/graphics/2018-bitcoin-investment/
 
-image:
-  caption: Topic learned from LDA, featuring artistic concepts
-  focal_point: Smart
+# image:
+#  caption: Topic learned from LDA, featuring artistic concepts
+#  focal_point: Smart
 
 ---
-<iframe width="100%" height="150" name="iframe" src="https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html"></iframe>
+<iframe width="100%" height="1000" name="LDA result" src="https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html"></iframe>
 
 
