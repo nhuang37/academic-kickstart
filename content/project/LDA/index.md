@@ -13,4 +13,4 @@ image:
   focal_point: Smart
 
 ---
-<iframe width="1000" height="1000" src="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/static/LDAvis_all.html" frameborder="40"></iframe>
+<iframe width="500" height="500" src="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.json" frameborder="40"></iframe>
