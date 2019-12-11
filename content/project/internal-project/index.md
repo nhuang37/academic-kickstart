@@ -9,7 +9,7 @@ date: "2019-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Water Usage Comparison: U.S. versus South Africa
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
