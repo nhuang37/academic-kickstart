@@ -1,29 +1,16 @@
-[---
+
+---
 title: Water Conservation: Awareness, Action, Advocacy 
 summary: Data visualization about global inequities in water use and conservation suggestions
 tags:
 - Visz
-date: "2019-01-01T00:00:00Z"]
-
-[# Optional external URL for project (replaces project detail page).
-external_link: "https://public.tableau.com/profile/ningyuan.huang3252#!/vizhome/waterconservationstory/WaterStory"]
-
-[image:
-  caption: Water Usage Comparison: U.S. versus South Africa
-  focal_point: Smart]
-
----
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://public.tableau.com/profile/ningyuan.huang3252#!/vizhome/waterconservationstory/WaterStory"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Water Usage Comparison: U.S. versus South Africa
   focal_point: Smart
 
 links:
