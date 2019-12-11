@@ -1,4 +1,3 @@
-
 ---
 title: Water Conservation: Awareness, Action, Advocacy 
 summary: Data visualization about global inequities in water use and conservation suggestions
