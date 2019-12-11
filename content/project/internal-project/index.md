@@ -11,5 +11,5 @@ external_link: "https://public.tableau.com/profile/ningyuan.huang3252#!/vizhome/
 image:
   caption: Water Usage Comparison: U.S. versus South Africa
   focal_point: Smart
-
+slides: example
 ---
