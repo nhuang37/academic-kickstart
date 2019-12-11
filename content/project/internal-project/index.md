@@ -9,7 +9,7 @@ date: "2019-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Domestic Water Usage (U.S. versus South Africa)
   focal_point: Smart
 
 links:
