@@ -11,7 +11,9 @@ date: "2019-12-01T00:00:00Z"
 image:
   caption: Topic learned from LDA, featuring artistic concepts
   focal_point: Smart
----
+
 vega = true
+
+---
 
 {{<vega id="viz" spec="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.json">}}
