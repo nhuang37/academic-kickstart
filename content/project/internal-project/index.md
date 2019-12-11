@@ -25,5 +25,4 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Lorem ipsum dolor sit amet, 
+Inspired from my volunteering experiences in South Africa. Visualization created using Tableau.
