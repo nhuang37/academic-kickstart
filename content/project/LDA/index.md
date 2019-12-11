@@ -1,14 +1,14 @@
 ---
-title: How Crypto Stacks Up Against Other Investments
-summary: A data-driven graphic story. Collaboration with Yue Qiu, Justina Lee and Adrian Leung in Bloomberg. 
+title: Topic Modelling with Latent Dirichlet Allocation (LDA) on Wikipedia Articles
+summary: An interative visualization showing results of topic modelling on 33k Wikipedia articles
 tags:
-- Visz
-date: "2018-05-02T00:00:00Z"
+- Representation Learning, Visz
+date: "2019-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.bloomberg.com/graphics/2018-bitcoin-investment/
+# external_link: https://www.bloomberg.com/graphics/2018-bitcoin-investment/
 
 image:
-  caption: Correlation heatmap of crypto-currency with other asset classes
+  caption: Topic learned from LDA, featuring artistic concepts
   focal_point: Smart
 ---
