@@ -3,7 +3,7 @@ title: "Adversarial attacks against linear and deep-learning regressions in astr
 # authors:
 # - admin
 # - Robert Fordy
-date: "2019"
+date: "2019-12-04T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
