@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Water Conservation
+summary: A data visualization showing global inequities of water usage and conservation suggestions
 tags:
-- Deep Learning
+- Visz
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
