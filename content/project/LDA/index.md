@@ -13,5 +13,4 @@ image:
   focal_point: Smart
 
 ---
-
-{{<vega id="viz" spec="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.json">}}
+<iframe width="1300" height="300" src="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/static/LDAvis_all.html" frameborder="40"></iframe>
