@@ -12,4 +12,4 @@ image:
   caption: Topic learned from LDA, featuring artistic concepts
   focal_point: Smart
 ---
-<iframe width="100%" height="150" name="iframe" src="/static/LDAvis_all.html"></iframe>
+{{<vega id="viz" spec="https://raw.githubusercontent.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.json">}}
