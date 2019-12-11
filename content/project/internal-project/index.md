@@ -12,5 +12,4 @@ image:
   caption: Water Usage Comparison: U.S. versus South Africa
   focal_point: Smart
 
-A water conservation story created with Tableau, inspired by my volunteer experience in Cape Town, South Africa.
 ---
