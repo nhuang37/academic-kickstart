@@ -7,6 +7,7 @@ date: "2019-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://www.bloomberg.com/graphics/2018-bitcoin-investment/
+vega = true
 
 image:
   caption: Topic learned from LDA, featuring artistic concepts
