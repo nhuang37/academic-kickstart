@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "About Me"
+  name = "Tags"
   url = "#tags"
   weight = 40
 

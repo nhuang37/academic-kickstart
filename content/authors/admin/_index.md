@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. student
+role: PhD student 
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Data Science, NYU
-  url: "https://cds.nyu.edu/"
+- name: Department of Applied Mathematics & Statistics, JHU
+  url: "https://engineering.jhu.edu/ams/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.
+bio: I am a PhD student at Johns Hopkins University. I enjoy telling stories with visualizations and using data science for social good.
 
 interests:
 - Representation Learning
-- Vulnerability in Deep Neural Networks
+- Theories in Deep Learning
 - Interdisciplinary Research in Data Science
 
 education:
   courses:
+  - course: PhD in Applied Math & Stat
+    institution: Johns Hopkins University
+    year: 2025
   - course: M.S. in Data Science
     institution: New York University
     year: 2020
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nh1724@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nhuang19@jhu.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 # icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
@@ -67,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.  I am currently pursuing my M.S. degree in Data Science at Center for Data Science, New York University.
+I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good. I am currently pursuing my PhD in Applied Mathematics and Statistics at Johns Hopkins University.
