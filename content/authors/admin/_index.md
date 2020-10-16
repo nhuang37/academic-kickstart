@@ -22,18 +22,18 @@ bio: I am a PhD student at Johns Hopkins University. I enjoy telling stories wit
 
 interests:
 - Representation Learning
-- Theories in Deep Learning
+- Theory in Deep Learning
 - Interdisciplinary Research in Data Science
 
 education:
   courses:
-  - course: PhD in Applied Math & Stat
+  - course: Ph.D. in Applied Math & Stat
     institution: Johns Hopkins University
     year: 2025
   - course: M.S. in Data Science
     institution: New York University
     year: 2020
-  - course: BSc in Statistics and Economics
+  - course: B.S. in Statistics and Economics
     institution: University of Hong Kong
     year: 2016
 

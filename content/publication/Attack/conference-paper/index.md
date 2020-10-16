@@ -21,13 +21,14 @@ publication_short: ""
 
 # publication_short: In *STC*
 
-abstract: Recent work has shown that neural networks are susceptible to adversarial attacks, but what about simpler machine learning models? In this paper we investigate adversarial attacks to popu- lar machine learning models for regressions in astronomical data. Namely, AstroNN (a Bayesian Neural Network), The Cannon (a quadratic generative model), and a simple linear regression. We suggest a few approaches to measuring the strength of an adversarial attacks that take into consideration the physical properties of the predictions. Our results suggest that generative (or causal) models are more robust to adversarial attacks than discriminative models.
+abstract: Recent work has shown that neural networks are susceptible to adversarial attacks, but what about simpler machine learning models? In this paper we investigate adversarial attacks to popular machine learning models for regressions in astronomical data. Namely, AstroNN (a Bayesian Neural Network), The Cannon (a quadratic generative model), and a simple linear regression. We suggest a few approaches to measuring the strength of an adversarial attacks that take into consideration the physical properties of the predictions. Our results suggest that generative (or causal) models are more robust to adversarial attacks than discriminative models.
 
 # Summary. An optional shortened abstract.
 summary: Our work generalizes adversarial attacks in regression settings and develops a comprehensive approach to measure attack success.
 
 tags:
  - Interdisciplinary Research
+ - deep learning
 featured: true
 
 links:
