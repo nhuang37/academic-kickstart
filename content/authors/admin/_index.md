@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Applied Math & Stat
     institution: Johns Hopkins University
-    year: 2025
+    year: 2024
   - course: M.S. in Data Science
     institution: New York University
     year: 2020
@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Department of Applied Mathematics & Statistics, and Mathematical Institute for Data Science at Johns Hopkins University. I am co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and Professor Carey Priebe.
+I am a PhD student in the Department of Applied Mathematics & Statistics at Johns Hopkins University. I am very fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/).
 
-I have no special talent. I am only passionately curious. In particular, I am passionate about understanding deep learning from mathematical and statistical principles. 
+I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
 
-My research interests are focused on generalization and robustness in deep learning, representation learning and graph neural networks, and interdisciplinary research in data science.
+My research interests are in the areas of deep learning and representation learning. My current work focuses on generalization and robustness in deep learning, and spectral-inspired graph neural networks. 
