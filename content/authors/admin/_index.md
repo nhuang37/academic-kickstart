@@ -70,4 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good. I am currently pursuing my PhD in Applied Mathematics and Statistics at Johns Hopkins University.
+I am a PhD student in the Department of Applied Mathematics & Statistics, and Mathematical Institute for Data Science at Johns Hopkins University. I am co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and Professor Carey Priebe.
+
+I have no special talent. I am only passionately curious. In particular, I am passionate about understanding deep learning from mathematical and statistical principles. 
+
+My research interests are focused on generalization and robustness in deep learning, representation learning and graph neural networks, and interdisciplinary research in data science.
