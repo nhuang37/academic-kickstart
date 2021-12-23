@@ -33,7 +33,7 @@ featured: true
 
 links:
 # - name: Custom Link
-#  url: http://example.org
+#   url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/nhuang37/AdversarialAttack'
 url_dataset: 'https://www.sdss.org/dr14/irspec/catalogs/'

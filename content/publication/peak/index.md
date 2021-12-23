@@ -1,8 +1,10 @@
 ---
 title: "Dimensionality reduction, regularization, and generalization in overparameterized regressions"
-authors:
-# - admin,
-date: "2020-10-14T00:00:00Z"
+authors: 
+- admin
+- 'David W. Hogg'
+- Soledad Villar
+date: "2021-09-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,28 +14,29 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "SIAM Journal on Mathematics of Data Science"
+publication_short: "SIMODS"
 
-abstract: We study the peaking phenomenon of the double descent risk curve of linear models. We show that performing a PCA-based dimensionality reduction avoids the divergence when the number of the samples approaches to the number of the parameters. We connect these results to an analysis of adversarial attacks, which become more effective as they raise the condition number of the empirical covariance of the features. We show that ordinary least squares is arbitrarily susceptible to data-poisoning attacks in the overparameterized regime---unlike the underparameterized regime---and how regularization and dimensionality reduction improve its robustness. 
+abstract: 'Overparameterization is powerful: Very large models fit the training data perfectly and yet often generalize well. The risk curve of these models typically shows a double-descent phenomenon, characterized by peaking at the interpolation threshold and decreasing risk in the overparameterized regime. The double-descent behavior raises the following research questions: Can we avoid the peaking phenomenon? Is overparameterization necessary for good generalization? In this work, we proved that the peaking disappears with dimensionality reduction by providing non-asymptotic risk bounds. We compared a wide range of projection-based regression models and found that overparameterization may not be necessary for good generalization.'
 
 # Summary. An optional shortened abstract.
-summary: We show how PCA avoids the peaking phenomenon of the double descent risk curve, and connect these results to adversarial attacks.
+summary: We show PCA avoids the peaking phenomenon of double-descent, and overparameterization may not be necessary for good generalization.
 
 tags:
+- Generalization
 - Theory of deep learning
 featured: false
 
 #links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2011.11477
 #url_code: '#'
 #url_dataset: '#'
-#url_poster: '#'
+url_poster: 'https://github.com/nhuang37/academic-kickstart/blob/master/static/poster_teresa_updated.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
