@@ -50,7 +50,7 @@ social:
 # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=IcwDTuUAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=cUQa7_kAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/nhuang37
