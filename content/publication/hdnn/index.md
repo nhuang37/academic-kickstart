@@ -1,5 +1,5 @@
 ---
-title: "Dimensionality reduction, regularization, and generalization in overparameterized regressions"
+title: "Deep Learning with Label Noise: A Hierarchical Approach"
 authors:
 - Li Chen 
 - admin
