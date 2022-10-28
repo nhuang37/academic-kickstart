@@ -74,4 +74,4 @@ I am a PhD student in the Department of Applied Mathematics & Statistics at John
 
 I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
 
-My research interests are in the areas of deep learning and representation learning. My current work focuses on generalization and robustness in deep learning, and spectral-inspired graph neural networks. 
+My research interests are in the areas of representation learning and deep learning. My current work focuses on spectral-inspired graph neural networks, and generalization and robustness in deep learning. 
