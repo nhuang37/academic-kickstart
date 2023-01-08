@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student 
+role: PhD candidate 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://engineering.jhu.edu/ams/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at Johns Hopkins University. I enjoy telling stories with visualizations and using data science for social good.
+bio: I am a PhD candidate at Johns Hopkins University. I enjoy telling stories with visualizations and using data science for social good.
 
 interests:
 - Representation Learning
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Department of Applied Mathematics & Statistics at Johns Hopkins University. I am very fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/).
+I am a PhD candidate in the Department of Applied Mathematics & Statistics at Johns Hopkins University. I am very fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/).
 
 I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
 
