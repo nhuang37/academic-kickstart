@@ -22,7 +22,7 @@ bio: I am a PhD candidate at Johns Hopkins University. I enjoy telling stories w
 
 interests:
 - Representation Learning
-- Theory in Deep Learning
+- Graph Neural Networks
 - Interdisciplinary Research in Data Science
 
 education:
@@ -74,4 +74,4 @@ I am a PhD candidate in the Department of Applied Mathematics & Statistics at Jo
 
 I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
 
-My research interests are in the areas of representation learning and deep learning. My current work focuses on spectral-inspired graph neural networks, and generalization and robustness in deep learning. 
+My research interests are in the areas of representation learning and deep learning. My current work focuses on expressivity and generalization properties of graph neural networks. 

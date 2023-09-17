@@ -32,7 +32,7 @@ summary: We propose spectral-inspired GNNs that exploit the advantages from both
 tags:
 - Deep Learning
 - Representation Learning
-- Theory of deep learning
+- Graph Neural Networks
 featured: false
 
 #links:
