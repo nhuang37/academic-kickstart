@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate 
+role: Flatiron Research Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Applied Mathematics & Statistics, JHU
-  url: "https://engineering.jhu.edu/ams/"
+- name: Center for Computational Mathematics, Flatiron Institute
+  url: "https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate at Johns Hopkins University. I enjoy telling stories with visualizations and using data science for social good.
+bio: I am a Flatiron Research Fellow at Flatiron Institute. 
 
 interests:
-- Representation Learning
-- Graph Neural Networks
-- Interdisciplinary Research in Data Science
+- Representation Learning and Graph Neural Networks
+- Theory and Algorithms for Foundation Models
+- ML4Science
 
 education:
   courses:
@@ -44,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nhuang19@jhu.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-# icon_pack: fab
-# link: https://twitter.com/GeorgeCushen
+  link: 'mailto:thuang@flatironinstitute.org'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/TeresaNHuang
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=cUQa7_kAAAAJ
@@ -70,8 +70,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Department of Applied Mathematics & Statistics at Johns Hopkins University. I am very fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/).
+I am a Flatiron Research Fellow in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). I am broadly interested in geometric deep learning and mechanistic understanding of foundation models.  
 
-I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
 
-My research interests are in the areas of representation learning and deep learning. My current work focuses on expressivity and generalization properties of graph neural networks. 
+I completed my PhD in 2024 from Johns Hopkins University, where I was very fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/). I was a research intern at [Apple Machine Learning Research](https://machinelearning.apple.com/) in 2023 and 2024. 
+
+<!-- I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning --- including machine learning and natural learning --- from mathematical and statistical principles. 
+
+My research interests are in the areas of representation learning and deep learning. My current work focuses on expressivity and generalization properties of graph neural networks.  -->
