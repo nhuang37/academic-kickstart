@@ -17,21 +17,33 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "AI/ML Research Intern"
+  company = "Apple ML Research"
+  company_url = "https://machinelearning.apple.com/"
+  location = "New York City, US"
+  date_start = "2024-05-20"
+  date_end = "2024-09-27"
+  description = """Studied approximation power of state space models"""
+
+
+
 [[experience]]
   title = "AI/ML Research Intern"
   company = "Apple ML Research"
   company_url = "https://machinelearning.apple.com/"
   location = "Cambridge, UK"
   date_start = "2023-05-30"
-  date_end = ""
-  description = """Developing approximately equivariant diffusion models."""
+  date_end = "2023-09-27"
+  description = """Developed diffusion models with applications in image and audio controlable generation."""
 
 
 [[experience]]
   title = "Research Associate"
   company = "Center for Computational Mathematics, Flatiron Institute"
   company_url = ""
-  location = "New York City, USA"
+  location = "New York City, US"
   date_start = "2022-06-04"
   date_end = "2022-08-12"
   description = """Studied expressivity of graph neural networks."""
